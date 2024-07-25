@@ -88,7 +88,9 @@ header {
     font-weight: 400;
     line-height: normal;
 }
-
+.cursor{
+    cursor: pointer;
+}
 .absolute {
     position: absolute;
     left: 7%;
